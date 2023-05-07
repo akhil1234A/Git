@@ -1,0 +1,15 @@
+Getting Help Git Commands
+
+1. git help <verb>
+
+2. git <verb> --help
+
+3. man git-<verb>
+
+example: git help commit 
+
+Git has 3 different states that you file can reside in 
+
+Modified: changed file, not commited
+Staged: next commit shot
+Committed:
