@@ -9,7 +9,35 @@ Getting Help Git Commands
 example: git help commit 
 
 Git has 3 different states that you file can reside in 
-
 Modified: changed file, not commited
 Staged: next commit shot
 Committed:
+
+
+Concepts: 
+Init: Creating a Repo
+git clone
+git status 
+git add
+git ignore
+git commit
+git log - summarizing option with git log
+
+Exercises:
+create a new repo in desktop using command line
+clone a repo from your github and save into desktop
+check the status of files
+track your files
+adding single file to staging area
+adding all files to stagin area
+short status
+ingore all the files with a specific format
+committing changes 
+see commit history 
+
+
+Assignments: 
+add a file in local machine to a repo
+add saved changes into file in repo
+file in repo have some modification, I need to bring the modification
+on existing file in my local machine. 

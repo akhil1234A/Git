@@ -1,5 +1,23 @@
 Version Control System (VCS) from codedamn:
 
+Review Questions: 
+
+What is a Version Control System?
+Types of VCS
+	a. centralized VCS
+	b. distributec VCS
+Difference between vcs and dvcs
+Why we use VCS
+Common VCS terminologies
+	a. Repository
+	b. commit
+	c. branch
+	d. merge
+What is Git
+
+
+
+
 1. **What is a Version Control System?**: A VCS is a system that records changes to a file or set of files over time so that you can recall specific versions later. It allows you to track the history of your code, collaborate with others, and easily revert to previous versions when needed.
 2. **Types of VCS**: There are two main types of version control systems: Centralized and Distributed.
     - **Centralized VCS**: In this model, there's a single central repository where all the changes are stored. Examples include SVN and CVS.
