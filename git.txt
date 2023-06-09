@@ -21,7 +21,10 @@ git status
 git add
 git ignore
 git commit
-git log - summarizing option with git log
+git log - summarizing option with git log, git log stat, formatting 
+git comit -ammend
+git restore 
+git push
 
 Exercises:
 create a new repo in desktop using command line
@@ -41,3 +44,9 @@ add a file in local machine to a repo
 add saved changes into file in repo
 file in repo have some modification, I need to bring the modification
 on existing file in my local machine. 
+undoing changes 
+	adding a missed file in previous commit
+	fixing commit message
+unstaging a staged file
+unmodifying a modifiled file
+pushing changes to central repository 
